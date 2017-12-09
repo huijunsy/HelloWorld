@@ -3,8 +3,8 @@ public class Test {
     public static void main(String arg[]){
 
         int a = 2;
-        int b +=a;
-        System.out.printf(b);
+        int b = 1;
+        System.out.println(b);
         
         System.out.printf("hahah...");
         
