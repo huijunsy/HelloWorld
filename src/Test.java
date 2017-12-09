@@ -10,6 +10,6 @@ public class Test {
 
         System.out.printf("撤销测试...");
 
-
+        System.out.printf("local diff check...");
     }
 }
